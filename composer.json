@@ -1,0 +1,16 @@
+{
+    "name": "maadhattah/handlebars-mustache-bug",
+    "type": "project",
+    "require": {
+        "xamin/handlebars.php": "dev-master",
+        "mustache/mustache": "^2.11.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mAAdhaTTah",
+            "email": "jamesorodig@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
